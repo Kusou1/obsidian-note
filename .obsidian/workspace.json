@@ -16,8 +16,20 @@
                 "file": "Drawing 2023-01-03 21.26.02.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "771aaca07a5f559a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "未命名 1.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,8 +58,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "va",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -63,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,13 +139,21 @@
                 "file": "Drawing 2023-01-03 21.26.02.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "8155778b21ead726",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,8 +166,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9151a876a1edcf7f",
+  "active": "8155778b21ead726",
   "lastOpenFiles": [
-    "未命名.md"
+    "未命名.md",
+    "Drawing 2023-01-03 21.26.02.excalidraw.md",
+    "未命名 1.md"
   ]
 }
