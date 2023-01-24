@@ -4,32 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d4312c9cde35ff37",
+        "id": "780121fa06147743",
         "type": "tabs",
         "children": [
           {
-            "id": "9151a876a1edcf7f",
+            "id": "0ded33e0d6129cad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Drawing 2023-01-03 21.26.02.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "771aaca07a5f559a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "未命名 1.md",
-                "staged": false
+                "file": "408/邓俊晖数据结构/课件二.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,12 +63,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "0676e6b492d48375",
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2023-01-03 21.26.02.excalidraw.md",
+                "file": "408/邓俊晖数据结构/课件二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2023-01-03 21.26.02.excalidraw.md",
+                "file": "408/邓俊晖数据结构/课件二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2023-01-03 21.26.02.excalidraw.md"
+                "file": "408/邓俊晖数据结构/课件二.md"
               }
             }
           },
@@ -166,10 +153,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "8155778b21ead726",
+  "active": "0ded33e0d6129cad",
   "lastOpenFiles": [
-    "未命名.md",
-    "Drawing 2023-01-03 21.26.02.excalidraw.md",
-    "未命名 1.md"
+    "408/邓俊晖数据结构/课件一.md",
+    "408/邓俊晖数据结构/数据结构（C++语言版）第三版——邓俊晖.md",
+    "408/邓俊晖数据结构/课件二.md",
+    "Attachment/courseware_2.pdf",
+    "Attachment/couseware_1 1.pdf",
+    "Attachment/dsa@fall2016.08up.pdf",
+    "408/邓俊晖数据结构/dsa@fall2016.08up.md",
+    "Template/Annotate Template.md",
+    "408/邓俊晖数据结构/dsa@fall@2016.10up.md",
+    "408/邓俊晖数据结构/test.js.md"
   ]
 }
